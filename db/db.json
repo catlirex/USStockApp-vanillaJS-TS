@@ -1,0 +1,60 @@
+{
+  "watchList": [
+    {
+      "name": "BP p.l.c.",
+      "symbol": "BP",
+      "price": 24.65,
+      "currentChange": -0.5799999,
+      "id": 21
+    },
+    {
+      "name": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "price": 168.37,
+      "currentChange": -2.05,
+      "id": 22
+    },
+    {
+      "name": "Coca-Cola Company (The)",
+      "symbol": "KO",
+      "price": 56.44,
+      "currentChange": 0.18,
+      "id": 23
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "symbol": "AMZN",
+      "price": 3631.2,
+      "currentChange": -50.47998,
+      "id": 24
+    },
+    {
+      "name": "Netflix, Inc.",
+      "symbol": "NFLX",
+      "price": 542.95,
+      "currentChange": -5,
+      "id": 25
+    },
+    {
+      "name": "Twitter, Inc.",
+      "symbol": "TWTR",
+      "price": 68.07,
+      "currentChange": -2.199997,
+      "id": 26
+    },
+    {
+      "name": "Apple Inc.",
+      "symbol": "AAPL",
+      "price": 148.48,
+      "currentChange": -0.66999817,
+      "id": 27
+    },
+    {
+      "name": "Facebook, Inc.",
+      "symbol": "FB",
+      "price": 344.46,
+      "currentChange": -3.1700134,
+      "id": 28
+    }
+  ]
+}
