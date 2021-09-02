@@ -1,5 +1,5 @@
+import { Chart } from "chart.js";
 import "./styles/style.css";
-import Chart from "chart.js";
 
 const plugin = {
   id: "custom_canvas_background_color",
@@ -638,14 +638,11 @@ function processChartData(symbol: string, interval = "1d", range = "1mo") {
 function renderChart() {
   let lineContainer = document.getElementById("line-chart");
   if (!lineContainer) return;
-  let oneMonthChart = new Chart(
-    lineContainer,
-    state.chartsData.lineChartConfig
-  );
+  new Chart(lineContainer, state.chartsData.lineChartConfig);
 
   let barContainer = document.getElementById("bar-chart");
   if (!barContainer) return;
-  let volumeChart = new Chart(barContainer, state.chartsData.barChartConfig);
+  new Chart(barContainer, state.chartsData.barChartConfig);
 }
 
 function convertBarDataReturnLabel(minBarData: number, barRawData: number[]) {

@@ -3,57 +3,57 @@
     {
       "name": "BP p.l.c.",
       "symbol": "BP",
-      "price": 24.65,
-      "currentChange": -0.5799999,
+      "price": 24.31,
+      "currentChange": -0.14999962,
       "id": 21
     },
     {
       "name": "Johnson & Johnson",
       "symbol": "JNJ",
-      "price": 168.37,
-      "currentChange": -2.05,
+      "price": 173.74,
+      "currentChange": 0.610001,
       "id": 22
     },
     {
       "name": "Coca-Cola Company (The)",
       "symbol": "KO",
-      "price": 56.44,
-      "currentChange": 0.18,
+      "price": 56.69,
+      "currentChange": 0.379997,
       "id": 23
     },
     {
       "name": "Amazon.com, Inc.",
       "symbol": "AMZN",
-      "price": 3631.2,
-      "currentChange": -50.47998,
+      "price": 3479,
+      "currentChange": 8.209961,
       "id": 24
     },
     {
       "name": "Netflix, Inc.",
       "symbol": "NFLX",
-      "price": 542.95,
-      "currentChange": -5,
+      "price": 582.07,
+      "currentChange": 12.880005,
       "id": 25
     },
     {
       "name": "Twitter, Inc.",
       "symbol": "TWTR",
-      "price": 68.07,
-      "currentChange": -2.199997,
+      "price": 65.55,
+      "currentChange": 1.05,
       "id": 26
     },
     {
       "name": "Apple Inc.",
       "symbol": "AAPL",
-      "price": 148.48,
-      "currentChange": -0.66999817,
+      "price": 152.51,
+      "currentChange": 0.6799927,
       "id": 27
     },
     {
       "name": "Facebook, Inc.",
       "symbol": "FB",
-      "price": 344.46,
-      "currentChange": -3.1700134,
+      "price": 382.05,
+      "currentChange": 2.669983,
       "id": 28
     }
   ]
